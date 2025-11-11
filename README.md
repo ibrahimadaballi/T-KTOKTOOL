@@ -27,5 +27,7 @@ pkg install python git -y
 git clone https://github.com/ibrahimadaballi/Tiktok
 cd Tiktok
 ls
+pip install -r requirements.txt
+ls
 tiktok.py
 
